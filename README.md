@@ -19,5 +19,5 @@
 
 ### **运行方式（二选一）**
 
-1.下载文件1与文件4，在 `Unity Hub` 中新建 `3D Build-in Pipline` 项目，导入`Unitypackage`，选中摄像机，修改 `ObjGLViwer` 组件中的模型绝对路径，点击 `Play` 按钮，进入 `Game` 视窗浏览。
+1.下载文件1与文件4，在 `Unity Hub` 中新建 `3D Build-in Pipline` 项目，导入`Unitypackage`，选中摄像机，修改 `ObjGLViwer` 组件中的模型绝对路径，点击 `Play` 按钮，进入 `Game` 视窗浏览。 
 2.下载文件2、文件3、文件4，在 `Unity Hub` 中新建 `3D Build-in Pipline` 项目，选中摄像机，挂载 `ObjGLViwer` 脚本组件，设置模型绝对路径，点击 `Play` 按 钮，进入 `Game` 视窗浏览。
