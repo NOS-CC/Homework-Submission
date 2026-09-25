@@ -1,5 +1,20 @@
 # Homework-Submission
 
+## **A3:Bezier曲线**
+
+### **提交文件构成：**
+
+- A3
+  1. `main.cpp`
+  2. `DrawCurve.exe`
+
+### **文件说明**
+
+- `main.cpp`:源码文件，但是不能直接运行，涉及到 `OpenGL`、`GLFW`、`GLAD`、`Dear ImGUI` 外部库。
+- `DrawCurve.exe`:可运行版本，内部所有曲线均为代码写死的预制曲线，在程序内通过选中不同曲线，然后在 `Viewport` 里操作控制点来实时修改曲线。右侧有参数可以调整。
+
+---
+
 ## **A2:模型的表达-OBJ**
 
 ### **提交文件构成：**
