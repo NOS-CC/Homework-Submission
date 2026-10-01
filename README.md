@@ -1,6 +1,21 @@
 # Homework-Submission
 
-## **A3:Bezier曲线**
+## **A4:Quaternion 演示程序**
+
+### **提交文件构成：**
+
+- A4
+  1. `main.cpp`
+  2. `Quaternion.exe`
+
+### **文件说明**
+
+- `main.cpp`:源码文件，但是不能直接运行，涉及到 `OpenGL`、`GLFW`、`GLAD`、`Dear ImGUI` 外部库。
+- `Quaternion.exe`:可运行版本，左侧为参数面板，右侧为信息面板，中间是Viewport，四元数参数可通过双击修改数值或鼠标点按拖动修改数值。
+
+---
+
+## **A3:Bezier 曲线**
 
 ### **提交文件构成：**
 
