@@ -1,5 +1,15 @@
 # Homework-Submission
 
+## **MediaPipe**
+
+### **使用说明**
+
+1. python=3.10
+2. opencv-python
+3. mediapipe=0.10.9
+4. 视频名字应为`input.mp4`
+5. 启动程序即可
+
 ## **A7:BVH 解析**
 
 ### **使用说明**
